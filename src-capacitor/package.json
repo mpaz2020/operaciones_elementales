@@ -1,0 +1,12 @@
+{
+  "name": "operaciones-elementales",
+  "version": "0.0.1",
+  "description": "senati",
+  "author": "medardo.paz@tgiperu.com",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

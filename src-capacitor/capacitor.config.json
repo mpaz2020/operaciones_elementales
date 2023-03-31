@@ -1,0 +1,7 @@
+{
+  "appId": "com.tgiperu.io",
+  "appName": "Operaciones Elementales",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
